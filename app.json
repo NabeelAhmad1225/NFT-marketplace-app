@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "react-native-app",
+    "name": "NFT",
     "slug": "react-native-app",
+    "description": "NFT marketplace app using react-native",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
